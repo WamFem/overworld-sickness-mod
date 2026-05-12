@@ -1,0 +1,10 @@
+{
+  "sickness_sound": {
+    "sounds": [
+      {
+        "name": "overworldsickness:sickness_sound",
+        "stream": true
+      }
+    ]
+  }
+}
